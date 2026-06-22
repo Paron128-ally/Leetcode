@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Paron128-ally/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Paron128-ally/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Paron128-ally/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Paron128-ally/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Paron128-ally/Leetcode/tree/master/0268-missing-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Paron128-ally/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Paron128-ally/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Paron128-ally/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Paron128-ally/Leetcode/tree/master/0344-reverse-string) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Paron128-ally/Leetcode/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Paron128-ally/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Paron128-ally/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Paron128-ally/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
