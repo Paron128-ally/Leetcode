@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Paron128-ally/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Paron128-ally/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Paron128-ally/Leetcode/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Paron128-ally/Leetcode/tree/master/0507-perfect-number) |
 ## Binary Search
 |  |
 | ------- |
