@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Paron128-ally/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Paron128-ally/Leetcode/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/Paron128-ally/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Paron128-ally/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Paron128-ally/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Paron128-ally/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Paron128-ally/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Paron128-ally/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Paron128-ally/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
