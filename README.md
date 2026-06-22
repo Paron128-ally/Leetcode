@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Paron128-ally/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Paron128-ally/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Paron128-ally/Leetcode/tree/master/1470-shuffle-the-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Paron128-ally/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2460-apply-operations-to-an-array](https://github.com/Paron128-ally/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Paron128-ally/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Paron128-ally/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/Paron128-ally/Leetcode/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Paron128-ally/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -81,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Paron128-ally/Leetcode/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Paron128-ally/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
