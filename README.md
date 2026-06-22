@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Paron128-ally/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Paron128-ally/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Paron128-ally/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0796-rotate-string](https://github.com/Paron128-ally/Leetcode/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/Paron128-ally/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Paron128-ally/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
