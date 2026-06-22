@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Paron128-ally/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Paron128-ally/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Paron128-ally/Leetcode/tree/master/1470-shuffle-the-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Paron128-ally/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Paron128-ally/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Paron128-ally/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Paron128-ally/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/Paron128-ally/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/Paron128-ally/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
