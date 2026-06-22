@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Paron128-ally/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Paron128-ally/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Paron128-ally/Leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Paron128-ally/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Paron128-ally/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Paron128-ally/Leetcode/tree/master/0507-perfect-number) |
 ## Binary Search
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Paron128-ally/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Paron128-ally/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Paron128-ally/Leetcode/tree/master/0645-set-mismatch) |
 ## Counting Sort
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Paron128-ally/Leetcode/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Paron128-ally/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
