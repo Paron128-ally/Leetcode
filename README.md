@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Paron128-ally/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Paron128-ally/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Paron128-ally/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Paron128-ally/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Paron128-ally/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Paron128-ally/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Paron128-ally/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Paron128-ally/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Paron128-ally/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Paron128-ally/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Paron128-ally/Leetcode/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/Paron128-ally/Leetcode/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Paron128-ally/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Paron128-ally/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Paron128-ally/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Paron128-ally/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Paron128-ally/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Paron128-ally/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Paron128-ally/Leetcode/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/Paron128-ally/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Paron128-ally/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Paron128-ally/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Paron128-ally/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Paron128-ally/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Paron128-ally/Leetcode/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
